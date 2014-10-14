@@ -1,0 +1,20 @@
+{
+  "name": "ShowGoogleSearchTools",
+  "version": "1.0.1",
+  "manifest_version": 2,
+  "short_name": "ShowGTools",
+  "description": "Googleの検索ツールをデフォルト表示します。",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.google.co.jp/*",
+        "https://*.google.co.jp/*",
+        "https://*.google.com/*",
+        "http://*.google.co.jp/*",
+        "http://*.google.com/*"
+      ],
+      "js": ["jquery.min.js","main.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
