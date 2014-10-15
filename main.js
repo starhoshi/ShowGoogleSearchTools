@@ -1,14 +1,3 @@
-var lists = {
- 	"ウェブ":"",
-	"画像":"isch",
-	"動画":"vid",
-	"地図":"map",
-	"ニュース":"nws",
-	"ショッピング":"shop",
-	"書籍":"bks",
-	"アプリ":"app"
-};
-
 $(function(){
 	openSearchTools();
 });
