@@ -7,7 +7,7 @@ Show "Search tools"(検索ツール) in the Google initial display.
 
 If you want a period specified in the Google search results, you will need to specify the period of time after pressing the Search Tools button.
 
-After a search on Google, the Search tools will be expanded automatically in this extension.
+After a search on Google, "Search tools" will be expanded automatically in this extension.
 
 Installation
 ============
