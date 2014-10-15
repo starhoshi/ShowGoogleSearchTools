@@ -12,4 +12,4 @@ After a search on Google, "Search tools" will be expanded automatically in this 
 Installation
 ============
 
-* [ShowGoogleSearchTools - Chrome Web Store](https://chrome.google.com/webstore/detail/pnmpofbbcjfnogogdnebahojecpfdkal/publish-accepted)
+* [ShowGoogleSearchTools - Chrome Web Store](https://chrome.google.com/webstore/detail/showgooglesearchtools/pnmpofbbcjfnogogdnebahojecpfdkal)
